@@ -80,6 +80,50 @@ Per 100 pages (6000 players) - 3 minutes
   - Player headshot
   - Club badge
   - Nation flag
+
+### Example Player Data
+
+```
+{
+    "name":" K. Mbappé",
+    "positions":[
+        "ST",
+        "LW",
+        "RW"
+    ],
+    "age":"20",
+    "ovr":"89",
+    "pot":"95",
+    "club":"Paris Saint-Germain",
+    "height":"5'10\"",
+    "foot":"Right",
+    "value":"£84.2M",
+    "wage":"£135K",
+    "clause":"£172.5M",
+    "weak_foot":"4★",
+    "skill_moves":"5★",
+    "attacking_workrate":"High",
+    "defensive_workrate":"Low",
+    "stats":{
+        "pac":"96",
+        "sho":"85",
+        "pas":"78",
+        "dri":"90",
+        "def":"39",
+        "phy":"76"
+    },
+    "images":{
+        "headshot":"https://cdn.sofifa.com/players/231/747/20_60.png",
+        "nation":"https://cdn.sofifa.com/flags/fr.png",
+        "team":"https://cdn.sofifa.com/teams/73/light_30.png"
+    },
+    "urls":{
+        "player":"/player/231747/kylian-mbappe/200061/",
+        "team":"/team/73/paris-saint-germain/"
+    }
+}
+```
+ 
  
 ### Debugging
 
