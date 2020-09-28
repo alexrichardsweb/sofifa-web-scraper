@@ -40,10 +40,12 @@ As with all options, be careful if you are not familiar with code as any hint of
 
 During testing the average times were
 
+```
 Per player - 0.03 seconds
 Per page (60 players) - 1.8 seconds
 Per 1000 players - 30 seconds
 Per 100 pages (6000 players) - 3 minutes
+```
 
 ### What data is scraped?
 
