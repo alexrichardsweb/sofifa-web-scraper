@@ -8,6 +8,7 @@ Please note that this data should be for personal use only.
 
 * Install Puppeteer via NPM or yarn https://pptr.dev/
 * In the terminal, navigate to the web scraper's directory and run `node scraper.js`
+* Files will appear in the `output` folder
 
 ### Available Options
 
