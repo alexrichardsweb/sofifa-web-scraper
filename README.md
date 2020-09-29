@@ -33,7 +33,7 @@ This will give you the first 150 pages players by potential, in a single `player
 
 **Other Configurables**
 
-You can also choose which data you'd like to removing the relevant lines of code from `scrapers.js` - There are basic instructions within the file on how to do this. It's recommended that you remove any information that you wont be needing to reduce the filesize.
+You can also choose which specific data you'd like by removing the relevant lines of code from `scrapers.js` - There are basic instructions within the file on how to do this. It's recommended that you remove any information that you wont be needing to reduce the filesize.
 
 As with all options, be careful if you are not familiar with code as any hint of an issue will cause the scraper to not work.
 
